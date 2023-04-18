@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend, CP and Python**
 
-- 📫 How to reach me **varshalearner@gmail.com**
+- 📫 How to reach me **varshalearner+gh@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshalearner&show_icons=true&locale=en" alt="varshalearner" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshalearner&" alt="varshalearner" /></p>
+
