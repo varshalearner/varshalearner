@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Varsha Sharma</h1>
+<h1 align="center">Hi 👋, I'm Varsha Sharma @varshalearner</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Frontend, CP and Python**
+- 💬 Ask me about **Frontend, CP and Java**
 
 - 📫 How to reach me **varshalearner+gh@gmail.com**
 
