@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/varshalearner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshalearner" height="30" width="40" /></a>
 <a href="https://instagram.com/varshalearner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshalearner" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/varshasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varshasharma" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/varshasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varsha2905" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/varshalearner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshalearner" height="30" width="40" /></a>
 </p>
 
