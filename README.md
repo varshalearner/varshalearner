@@ -8,6 +8,7 @@
 - 📫 How to reach me **varshalearner+gh@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
+- ❤ I love to interect with people
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
