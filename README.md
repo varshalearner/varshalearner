@@ -15,18 +15,7 @@ I care about tests that **find real bugs, run fast, and explain their own failur
 
 <br/>
 
-## Impact at FICO
 
-| | |
-|:--|:--|
-| **5h → 3h** | Cut runtime of a **~3,000-test regression suite** with shared resources and parallelism. Cleanup dropped from ~12 min to ~30 s. I packaged the method as a Claude command that the whole 8-person team used across the suite. |
-| **~190 tests** | Built a metering test suite **from scratch** across 5 microservices: functional, performance (k6), **72-hour longevity**, and **chaos** (Chaos Mesh). |
-| **~200 tests** | Wrote negative and security tests for **OIDC, SAML, JWT and mTLS** flows. |
-| **AI triage** | Built a **regression analyzer** that reads Jenkins results, K8s logs and code, finds the likely root cause, and files the Jira defect. The dev team later adopted it. |
-| **1 real bug** | A pod-kill chaos test showed services **lacked graceful shutdown**, so in-flight requests failed. The developers shipped the fix. |
-| **6 Spot Awards** | Supported 4 releases and 2 hotfixes. |
-
-<br/>
 
 ## Selected work
 
